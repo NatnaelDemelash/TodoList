@@ -8,3 +8,15 @@
 body {
     font-family: 'Nunito', sans-serif;
 }
+
+:root {
+    --primary: #03CE16;
+    --business: #5361F7;
+    --personal: #5F240C;
+    --light: #EEE;
+    --dark: #313154;
+    --danger: #ff5b57;
+    --shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+    --business-glow: 0px 0px 4px rgba(83, 97, 247, .5);
+    --personal-glow: 0px 0px 4px rgba(95, 36, 12, .5);
+}
